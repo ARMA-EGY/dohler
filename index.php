@@ -46,7 +46,7 @@
 			</div>
 
 			<p class="txt-center m1-txt1 p-t-33 p-b-25">
-				Please Rate The Quality of Food In The Cafeteria
+				Please Rate The Quality of Food In The Resturant
 			</p>
 
 			<form class="flex-w flex-c-m contact100-form validate-form p-4 col-md-8 m-auto rating_form">
