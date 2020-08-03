@@ -53,7 +53,7 @@
 				
 				
 				<div class="wrap-input100 validate-input where1 col-md-10" data-validate = "Name is required">
-					<input class="s1-txt2 placeholder0 input100" type="text" name="name" placeholder="Your Name" required>
+					<input class="s1-txt2 placeholder0 input100" type="text" name="name" placeholder="Department" required>
 					<span class="focus-input100"></span>
 				</div>
 				
