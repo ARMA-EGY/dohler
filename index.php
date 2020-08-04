@@ -58,7 +58,7 @@
 				</div>
 				
 				<div class="wrap-input100 validate-input where1 col-md-10" data-validate = "HR Code is required">
-					<input class="s1-txt2 placeholder0 input100" type="text" name="hr_code" placeholder="Name Optional" required>
+					<input class="s1-txt2 placeholder0 input100" type="text" name="hr_code" placeholder="Name Optional">
 					<span class="focus-input100"></span>
 				</div>
 				
