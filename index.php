@@ -52,12 +52,12 @@
 			<form class="flex-w flex-c-m contact100-form validate-form p-4 col-md-8 m-auto rating_form">
 				
 				
-				<div class="wrap-input100 validate-input where1 col-md-10" data-validate = "Name is required">
+				<div class="wrap-input100 validate-input where1 col-md-10" data-validate = "Department is required">
 					<input class="s1-txt2 placeholder0 input100" type="text" name="name" placeholder="Department" required>
 					<span class="focus-input100"></span>
 				</div>
 				
-				<div class="wrap-input100 validate-input where1 col-md-10" data-validate = "HR Code is required">
+				<div class="wrap-input100 validate-input where1 col-md-10">
 					<input class="s1-txt2 placeholder0 input100" type="text" name="hr_code" placeholder="Name Optional">
 					<span class="focus-input100"></span>
 				</div>
