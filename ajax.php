@@ -37,7 +37,7 @@ if(isset($_POST['rating']))
 
 	// if count > 0 this mean the database contain record about this username
 	
-	if ($count > 1 )
+	if ($count > 0 )
 	{
 		?>
 			<h5>Sorry, This (HR Code) Has Done The Survey Before. </h5>
